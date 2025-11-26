@@ -1,0 +1,19 @@
+[theme]
+# 기본 색상 (Dark/Light 모드 선택 가능)
+base="light" 
+
+# 배경 색상 (전체 앱 배경)
+backgroundColor="#F0F2F6" 
+
+# 전경 색상 (글씨 및 주요 텍스트 색상)
+foregroundColor="#101010" 
+
+# 주요 브랜드 색상 (버튼, 링크, 슬라이더 등의 색상)
+primaryColor="#4A8AF5" 
+
+# 폰트
+font="sans serif"
+# 'sans serif', 'serif', 'monospace' 중에서 선택 가능
+
+# 사이드바와 메인 콘텐츠 사이의 배경 색상
+secondaryBackgroundColor="#FFFFFF"
